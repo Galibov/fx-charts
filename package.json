@@ -2,7 +2,6 @@
   "name": "fx-charts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Galibov/fx-charts",
   "dependencies": {
     "apexcharts": "^3.6.4",
     "gh-pages": "^2.0.1",
