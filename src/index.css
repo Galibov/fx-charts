@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+
+#root {
+  flex: 1
+}

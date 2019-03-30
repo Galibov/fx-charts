@@ -1,0 +1,18 @@
+
+.App {
+  flex: 1
+}
+.Fxtitle {
+  text-align: center;
+  font-size: 30px;
+}
+.react-tabs {
+  margin-top: 30px;
+}
+.react-tabs__tab-list {
+  text-align: center;
+}
+.react-tabs__tab {
+  width: 15%;
+  text-align: center
+}
