@@ -1,7 +1,12 @@
 # FX CHARTS
 
 ## LIVE HERE
-[PRESS ON ME!](https://galibov.github.io/connect-four/)
+[PRESS ON ME!](https://fx-charts.herokuapp.com/)
+
+## Project details 
+* <a href="https://reactjs.org/">React</a>: 16.8
+* <a href="https://apexcharts.com/">Apex Charts</a>: 3.6
+
 ## Project Setup
 ```
 npm install
