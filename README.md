@@ -1,4 +1,5 @@
 # FX CHARTS
+Charts based on fxempire api data with React and ApexCharts
 
 ## LIVE HERE
 [PRESS ON ME!](https://fx-charts.herokuapp.com/)
