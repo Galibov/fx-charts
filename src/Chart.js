@@ -54,6 +54,10 @@ export class Chart extends Component {
     }
 
     render() {
+        if (this.props.chartData.length === 0)
+            return (
+                <h1>Loading  data pease wait</h1>
+            )
         return (
             <div >
                 <ApexChart options={this.state.options} series={this.state.series} type="candlestick" height="450" />
