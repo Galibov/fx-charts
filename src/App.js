@@ -71,7 +71,7 @@ class App extends Component {
             <Chart idChart="hour" chartData={this.state.dataHour} />
           </TabPanel>
           <TabPanel>
-            <Chart idChart="week" chartData={this.state.dataMin} />
+            <Chart idChart="week" chartData={this.state.dataWeek} />
           </TabPanel>
 
         </Tabs>
